@@ -223,6 +223,4 @@ DATABASE_URL=postgresql://postgres:postgres@localhost:5432/chaicode
 
 This is a learning project. Feel free to fork and experiment!
 
-## 📄 License
 
-ISC
